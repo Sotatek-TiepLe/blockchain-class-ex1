@@ -1,0 +1,16 @@
+{
+  "name": "lean_web3_sotatek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ethereum-multicall": "^2.8.0",
+    "web3": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tieplv",
+  "license": "ISC"
+}
